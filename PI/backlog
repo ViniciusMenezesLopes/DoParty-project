@@ -1,0 +1,40 @@
+Atividades para desenvolvimento do projeto:
+--------------------------------------------
+
+- Usuário:
+
+Criar evento
+busca por prestadores
+monta lista de prestadores
+monta orçamentos
+contrata prestadores
+monta grupo de organizadores
+paga prestadores
+avalia
+posta gotos do evento
+monta genda de eventos
+faz vaquinha entre organizadores
+monta lista de tarefas
+login e cadasro com facebook
+
+
+- Prestador:
+
+realiza cadastro específico
+aceita serviços
+monta agenda de serviço
+recebe pagamento
+visualiza eventos próximos
+oferece serviços
+onta perfil
+
+
+
+Repositório:
+
+git init
+git remote add origin git@github.com:MRsarael/DoParty-project.git
+Para subir git push -u origin master
+
+
+git remote add origin https://github.com/MRsarael/DoParty-project.git
