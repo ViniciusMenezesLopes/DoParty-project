@@ -1,0 +1,10 @@
+Checklist
+Orçamento
+Negociações
+Prestadores de serviço
+Contratação e avaliação
+Localização de prestadores
+Gupos
+
+Aplicativo de divulgação e planejamento de eventos. Possibilita a negociação de valores e intercâmbio de serviços relacionados à eventos.
+Para os que possuem habilidades de negociação e organização e poucas condições para contratar um serviço especializado.
