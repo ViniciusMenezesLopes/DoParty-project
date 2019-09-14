@@ -36,5 +36,6 @@ git init
 git remote add origin git@github.com:MRsarael/DoParty-project.git
 Para subir git push -u origin master
 
-
+git init
 git remote add origin https://github.com/MRsarael/DoParty-project.git
+git pull origin
