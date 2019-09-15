@@ -38,4 +38,4 @@ Para subir git push -u origin master
 
 git init
 git remote add origin https://github.com/MRsarael/DoParty-project.git
-git pull origin
+git pull origin master
