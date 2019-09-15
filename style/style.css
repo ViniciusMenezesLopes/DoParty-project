@@ -1,0 +1,31 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+
+header{
+    width:100%;
+    min-height:20px;
+    padding:0px;
+    margin:0px;
+}
+
+.menu-fixed{
+    z-index:10;
+    position:fixed;
+    top:0px;
+}
+
+section{
+    width:100%;
+    min-height:100px;
+    padding:0px;
+    margin:0px;
+}
+
+footer{
+    width:100%;
+    min-height:100px;
+    padding:0px;
+    margin:0px;
+}

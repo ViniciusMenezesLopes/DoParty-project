@@ -1,0 +1,26 @@
+- Base de dados::
+-----------------------------
+
+- Tabelas:
+
+evento
+usuario
+usuario_evento
+prestador
+endereço
+lista_contratacao
+orcamento
+lista_atividades
+avaliacao
+imagens
+fotos
+arquivos
+dados_perfil
+formulario
+pagamento
+ageda_evento
+vaquinha
+grupo
+serviço
+agenda_servico
+servicos
