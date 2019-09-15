@@ -1,0 +1,13 @@
+{
+    "name": "doparty/project",
+    "description": "Projeto da matéria desenvolvido na matéria 'Projeto Interdisciplinar' de uma plataforma web para gerenciamento de eventos",
+    "authors": [
+        {
+            "name": "Rafael Moreira",
+            "email": "rafa.almeid@hotmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^2.0"
+    }
+}
