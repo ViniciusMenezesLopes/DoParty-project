@@ -32,7 +32,13 @@ Monta perfil (descrição, fotos, contatos, ...)
 
 - Repositório:
 
-git init
-git remote add origin https://github.com/MRsarael/DoParty-project.git
-git pull origin master
-git push origin master
+Iniciando repositório     : git init
+Sincronizando repositórios: git remote add origin https://github.com/MRsarael/DoParty-project.git
+Atualizando o repositório : git pull origin master
+Sincronizando repositórios: git push origin master
+
+Criando branch         : git checkout -b nome_branch
+Visualizando branchs   : git branch
+Mudando de branch      : git checkout nome_branch
+Deletando branch       : git branch -d nome_branch
+Para comitar alterações: git add (alterações) => git commit -m "comentário"
